@@ -1,4 +1,4 @@
 # demo
 This is my first git repo.
 <br>
-Author - kundan
+Author - kundan kumar
